@@ -10,7 +10,7 @@ This dataset is a collection of English news from ISNA news agency which could b
 
 ```
 @ARTICLE{
-         author={M. {Kamel} and F. {Namdarsiuky} and H. {Sadoghi Yazdi} },
+         author={M. {Kamel} and F. {Namdarsiuky} and H. {Sadoghi Yazdi}},
          journal={Springer/Multimedia Tools and Applications},
          title={Robust sentiment fusion on distribution of news},
          year={2019},
