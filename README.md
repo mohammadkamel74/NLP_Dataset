@@ -4,10 +4,9 @@ The dataset is released as a part of the following [paper](https://link.springer
 
 ## Dataset Description
 
-This dataset is a collection of English news from ISNA news agency which could be used in Natural Language Processing and Machine Learning researches. Actually it is a new version of data which includes 1,015 news in different topics and categories (i.e., Culture and Art, Economy, Politics, Science, Social and Sports). The mentioned dataset has some features such as raw news data, different sections of news, the analyzed sentiment of news, part of speech tagging and entity recognition and many other useful information. 
+This dataset is a collection of English news from [ISNA](https://en.isna.ir/) news agency which could be used in Natural Language Processing and Machine Learning researches. Actually it is a new version of data which includes 1,015 news in different topics and categories (i.e., Culture and Art, Economy, Politics, Science, Social and Sports). The mentioned dataset has some features such as raw news data, different sections of news, the analyzed sentiment of news, part of speech tagging and entity recognition and many other useful information. 
 
-## Citation
-
+## Citation    
 ```
 @ARTICLE{
          author={M. {Kamel} and F. {Namdarsiuky} and H. {Sadoghi Yazdi}},
